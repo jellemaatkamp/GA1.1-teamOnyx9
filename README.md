@@ -5,3 +5,5 @@ Multiplier added. This function allows someone to input two number, which are th
 takes two numbers and the output is the difference between them
 it breaks if an array or string is entered 
 subgroup a made a function that can add numbers. It works with any digits. example add(a, b) so fill in numbers at a and b.
+
+Added the distance fom zero function. This function has 1 input x, which is then put in the subtraction function to determine how far it is from 0. 
